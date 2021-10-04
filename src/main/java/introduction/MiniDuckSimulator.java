@@ -1,5 +1,10 @@
 package introduction;
 
+/**
+ * @author Alejo Cain
+ * @Date 04-10-2021
+ */
+
 public class MiniDuckSimulator {
     public static void main(String[] args)
     {
